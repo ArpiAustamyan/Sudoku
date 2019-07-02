@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/aaaa.jpg</file>
+        <file>images/eraser.png</file>
+        <file>images/Eraser-icon.png</file>
+        <file>images/pen.png</file>
+        <file>images/pencil.png</file>
+        <file>images/back.png</file>
+        <file>images/back-hi.png</file>
+        <file>images/backn.png</file>
+    </qresource>
+</RCC>
